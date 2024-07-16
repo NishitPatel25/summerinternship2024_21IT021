@@ -16,7 +16,7 @@ During my one-month internship at Topia Technologies, I worked on an exciting ma
 
 ### Week 1
 #### Orientation and Initial Research
-**Date**: [Start Date]
+**Date**: [8th May 2024]
 
 - **Orientation Meeting**: Introduction to Topia Technologies and overview of the internship tasks.
 - **Project Introduction**: Received details about the Arrhythmia Detection project.
